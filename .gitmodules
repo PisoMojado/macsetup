@@ -1,3 +1,6 @@
 [submodule "macports"]
 	path = macports
 	url = git@github.com:macports/macports-base.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:PisoMojado/dotfiles.git
