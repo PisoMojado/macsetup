@@ -15,7 +15,7 @@ SETUP_DIR="$( cd "$( dirname "$0" )" && pwd )"
 "${SETUP_DIR}/dotfiles/install.sh"
 
 # Install keys
-"${SETUP_DIR}/key-store/install.sh"
+"${SETUP_DIR}/keys/install.sh"
 
 echo "Mac Setup Complete!"
 
